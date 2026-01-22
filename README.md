@@ -51,17 +51,6 @@ Database
 
 MongoDB / MySQL
 
-📂 Project Structure
-AGRINOVA
-├── frontend
-│   ├── public
-│   └── src
-├── backend
-│   ├── models
-│   ├── routes
-│   └── app.py
-└── README.md
-
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/Karthik-reddie/Agrinova-webapp.git
